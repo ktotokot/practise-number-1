@@ -39,7 +39,7 @@
 ## Приклад використання
 
 ```js
-import stats from 'data/stats.json';
+import stats from "data/stats.json";
 
 <Statistics title="Main Statistics" stats={stats} />;
 <Statistics stats={data} />;
